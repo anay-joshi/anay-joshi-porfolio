@@ -772,7 +772,7 @@ a {
 }
 .cid-sISiouXJsZ .dropdown-menu,
 .cid-sISiouXJsZ .navbar.opened {
-  background: #203864 !important;
+  background: #3c47af !important;
 }
 .cid-sISiouXJsZ .nav-item:focus,
 .cid-sISiouXJsZ .nav-link:focus {
@@ -807,7 +807,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #203864;
+  background: #3c47af;
 }
 .cid-sISiouXJsZ .navbar.opened {
   transition: all 0.3s;
@@ -947,7 +947,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sISiouXJsZ .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #203864;
+  background: #3c47af;
 }
 .cid-sISiouXJsZ .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -978,7 +978,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-sISiouXJsZ button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1327,7 +1327,7 @@ a {
   text-align: center;
 }
 .cid-sISt2saYmM {
-  padding-top: 4rem;
+  padding-top: 6rem;
   padding-bottom: 2rem;
   background-image: url("../../../assets/images/mbr-2.jpg");
 }
