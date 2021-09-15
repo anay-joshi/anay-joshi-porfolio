@@ -1068,7 +1068,6 @@ a {
 .cid-sITeKWcCqn {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: #ffffff;
 }
 .cid-sITeKWcCqn .row {
   margin-left: 0;
@@ -1325,6 +1324,9 @@ a {
 }
 .cid-sITeKWcCqn H6 {
   text-align: center;
+}
+.cid-sITeKWcCqn H3 {
+  color: #111111;
 }
 .cid-sISt2saYmM {
   padding-top: 6rem;
@@ -1588,9 +1590,9 @@ a {
   content: "\e925";
   font-family: Moririse2 !important;
   position: absolute;
-  font-size: 62px;
+  font-size: 35px;
   left: 50%;
-  top: 101%;
+  top: 104%;
   color: #3c47af;
   transform: translate(-50%, 0);
 }
