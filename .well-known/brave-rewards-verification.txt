@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: anayjoshi.tech
+Token: 79d815854bfa35171109b1df3e2f37d578f90d47bd1aed8b4263eb155c982ba6
